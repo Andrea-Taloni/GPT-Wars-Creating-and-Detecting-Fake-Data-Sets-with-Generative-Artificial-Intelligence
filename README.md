@@ -53,7 +53,7 @@ They can be downloaded from the public repository. These data sets were not incl
 
 "Unrefined Fake Data Set 1a.xlsx"
 
-It can be downloaded from the public repository. The data set is identical to the "Refined Fake Data Set 1a" featured inside the Supplementary Material of this submission.
+It can be downloaded from the public repository. The data set is identical to the "Unefined Fake Data Set 1a" featured inside the Supplementary Material of this submission.
 
 -----------------------------------------------
 
