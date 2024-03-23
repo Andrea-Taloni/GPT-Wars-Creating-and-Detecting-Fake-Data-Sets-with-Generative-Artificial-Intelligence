@@ -46,7 +46,7 @@ Refined Fake Data Set - Sample Conversation with Fake Data Creator (2).xlsx
 
 Refined Fake Data Set - Sample Conversation with Fake Data Creator (3).xlsx
 
-They can be downloaded from the public repository as Excel files. These data sets were not included inside the Manuscript.
+They can be downloaded from the public repository. These data sets were not included inside the Manuscript.
 
 
 2.3 - This is the data set submitted to Fake Data Detector for the purpose of forensic analysis (it was renamed to "Data Set 1a" prior to the analysis to prevent bias):
