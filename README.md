@@ -69,7 +69,7 @@ In other words, Custom GPTs perform very well in creating the main infrastructur
 Surprisingly, Custom GPTs seem quite inefficient when it comes to performing small targeted changes to data, such as adjusting few specific numbers.
 For the purpose of this research, we employed ChatGPT to fabricate the entire data sets, without performing any manual editing, which is certainly suboptimal.
 Performing minor fixes, such as adjusting last digits and distribution shapes took longer than necessary; few minor manual changes could have improved the data sets without requiring generative AI.
-As discusses in the manuscript, the most dangerous attempts at fabricating data may involve a mixed approach, using both generative AI and manual input.
+As discussed in the manuscript, the most dangerous attempts at fabricating data may involve a mixed approach, using both generative AI and manual input.
 
 -----------------------------------------------
 
