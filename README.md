@@ -1,7 +1,5 @@
-PUBLIC REPOSITORY owned by Andrea Taloni - GPT-Wars-Creating-and-Detecting-Fake-Data-Sets-with-Generative-Artificial-Intelligence
-------
-README
-------
+README - GPT-Wars-Creating-and-Detecting-Fake-Data-Sets-with-Generative-Artificial-Intelligence
+-----------------------------------------------
 
 1 - LINKS TO CUSTOM GPTs
 
