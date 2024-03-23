@@ -5,7 +5,7 @@ README - GPT-Wars-Creating-and-Detecting-Fake-Data-Sets-with-Generative-Artifici
 
 These are links to access the Custom GPTs used in the manuscript "GPT Wars: Creating and Detecting Fake Data Sets with Generative Artificial Intelligence", submitted to The Lancet Digital Health.
 
-To use the Custom GPTs an active subscription to ChatGPT is required.
+An active payed subscription to ChatGPT is required to use the Custom GPTs.
 
 
 GPT Data Analyst - developed by OpenAI: https://chat.openai.com/g/g-HMNcP6w7d-data-analyst
