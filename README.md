@@ -23,7 +23,7 @@ Fake Data Detector - developed by Andrea Taloni: https://chat.openai.com/g/g-8Fa
 2 - SAMPLE CONVERSATIONS
 
 Before testing our Custom GPTs, we highly recommend to check the sample conversations down below.
-The sample conversations were recorded after manuscript submission to aid reviewers and editors in using and evaluating the Custom GPTs.
+The sample conversations were recorded after manuscript submission to explain how to use the Custom GPTs.
 
 2.1 - The sample conversations were screenshotted and merged in single PDF files:
 
@@ -64,7 +64,7 @@ The Custom GPTs Fake Data Creator (1,2,3) and Fake Data Detector have been devel
 - to directly ask ChatGPT to fix what was done wrong
 - to press the "regenerate" button below the answer of ChatGPT
 
-As you can notice in the sample conversations for Fake Data Creator, the first steps of data set fabrication are very smooth; however, fixing very specific statistical flaws may be challenging.
+As shown in the sample conversations for Fake Data Creator, the first steps of data set fabrication are very smooth; however, fixing very specific statistical flaws may be challenging.
 In other words, Custom GPTs perform very well in creating the main infrastructure of the data set, meeting criteria for significancy levels and linear correlations.
 Surprisingly, Custom GPTs seem quite inefficient when it comes to performing small targeted changes to data, such as adjusting few specific numbers.
 For the purpose of this research, we employed ChatGPT to fabricate the entire data sets, without performing any manual editing, which is certainly suboptimal.
